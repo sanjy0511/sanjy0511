@@ -10,6 +10,4 @@
 sanjy0511/sanjy0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-i am sanjay 
-My birth place in Ramanathapuram 
-I lived in chennai
+
